@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1848.81 1192.76">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-4 {
+        fill: #231f20;
+        font-family: BodoniMT, 'Bodoni MT';
+        font-size: 299.73px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-6 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 12px;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g>
+    <polyline class="cls-6" points="525.87 15.02 1313.95 6.18 533.46 692.35 1321.55 683.51"/>
+    <polyline class="cls-6" points="1315.56 95.27 527.47 104.11 1322.94 754.18 534.86 763.01"/>
+  </g>
+  <text class="cls-4" transform="translate(0 1109.49) scale(.55 1)"><tspan x="0" y="0">Design, D</tspan><tspan class="cls-8" x="1241.06" y="0">e</tspan><tspan class="cls-2" x="1363.26" y="0">v</tspan><tspan x="1514.59" y="0">elope, D</tspan><tspan class="cls-1" x="2543.44" y="0">e</tspan><tspan class="cls-7" x="2665.64" y="0">vl</tspan><tspan class="cls-5" x="2909.32" y="0">i</tspan><tspan class="cls-3" x="2982.2" y="0">v</tspan><tspan class="cls-7" x="3133.53" y="0">er</tspan></text>
+</svg>
